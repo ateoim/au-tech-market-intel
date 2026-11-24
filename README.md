@@ -2,6 +2,8 @@
 
 PulseAU is a client-side labour-market intelligence and compensation analytics platform for the Australian technology sector. It enables engineering leaders, hiring managers, and practitioners to slice compensation percentiles, compare real purchasing power across Australian cities, track high-velocity technical skills, and model role readiness and AUD salary lift.
 
+![PulseAU Australian Tech Labour Market Overview](./docs/screenshot-desktop.png)
+
 ## Key Capabilities
 
 - **Global Multi-Facet Slicing**: Filter every analytical view simultaneously by City/State (`Melbourne`, `Sydney`, `Brisbane`, `Perth`, `Adelaide`, `Canberra`, `Remote AU`), Role Family (`AI & ML Engineering`, `Data Analytics & BI`, `Business Analysis`, `Software Engineering`, `Automation & Platform`), Seniority (`Graduate`, `Mid-Level`, `Senior`, `Lead / Principal`), Work Mode (`Hybrid`, `Remote`, `On-site`), and Compensation Basis (`Base AUD` vs `Total Package incl. 12% Super`).
